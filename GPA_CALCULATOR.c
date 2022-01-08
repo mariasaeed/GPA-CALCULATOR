@@ -49,6 +49,7 @@ int main(void)
 	double grade1;
 	double total=0;
 	double k;
+	//edited
 	
 	printf("\n");
 	printf("New GPA information:\n");
